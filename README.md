@@ -137,6 +137,7 @@ TAVILY_API_KEY=your_tavily_api_key
 Run ingestion to create FAISS index:
 
 python retrieval/ingest.py
+
 ▶️ Run the Application
 python app.py
 
@@ -159,24 +160,42 @@ Output:
 }
 
 
+
 📊 Future Improvements
+
 🔹 Evaluation benchmark dataset
+
 🔹 Hallucination detection module
+
 🔹 PDF report generation of verdict
+
 🔹 Deployment on HuggingFace / Render
 
 
+
 ⚠️ Notes
+
 Uses Groq LLM (ensure valid API key)
+
 FAISS index must be built before running app
+
 Large model calls may hit rate limits (free tier)
 
 
+
+
 👨‍💻 Tech Stack
+
 LangGraph / LangChain
+
 Groq LLM (LLaMA 3)
+
 FAISS
+
 Tavily Search API
+
 HuggingFace Embeddings
+
 Gradio UI
+
 Python
