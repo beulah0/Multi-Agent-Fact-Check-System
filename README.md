@@ -14,30 +14,54 @@ It combines:
 
 🚀 Features
 ✔️ Fact-checks any user claim in real time
+
 ✔️ Uses trusted Indian sources (PIB, AltNews, BoomLive, Wikipedia, etc.)
+
 ✔️ Hybrid retrieval: FAISS + Web Search
+
 ✔️ Multi-agent reasoning:
+
 Advocate Agent → supports claim
+
 Refuter Agent → challenges claim
+
 Judge Agent → final verdict
+
 ✔️ Structured JSON output (verdict, confidence, reasoning)
+
 ✔️ Interactive Gradio web interface
+
 ✔️ Modular LangGraph-based pipeline
 
 
+
 🏗️ Architecture
+
+
 User Claim
+
    ↓
+   
 Retriever Agent
+
    ├── Tavily Web Search
+   
    └── FAISS Vector Search
+   
    ↓
+   
 Advocate Agent (supports claim)
+
    ↓
+   
 Refuter Agent (debunks claim)
+
    ↓
+
 Judge Agent (final decision)
+
    ↓
+   
 Gradio UI Output
 
 
