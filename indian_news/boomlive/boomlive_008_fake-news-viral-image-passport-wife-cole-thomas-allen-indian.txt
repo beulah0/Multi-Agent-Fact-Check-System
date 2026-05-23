@@ -1,0 +1,21 @@
+SOURCE: https://www.boomlive.in/fact-check/fake-news-viral-image-passport-wife-cole-thomas-allen-indian-priyanka-rao-31080
+SCRAPED: 2026-05-23T17:55:50.374828
+============================================================
+
+An image of a passport claiming to show the alleged White House Correspondents’ Dinner shooting suspect Cole Tomas Allen's wife as Indian is fake. Further, a photo of the purported couple is likely AI-generated.
+BOOM found glaring errors in the passport, and multiple AI detection tools flagged the image as artificially generated.
+31-year-old Allen, from Torrance, California, was taken into custody after gunfire rang out at the White House Correspondents’ Association dinner on April 26, 2026. A manifesto allegedly written by the suspect described himself as a “Friendly Federal Assassin” and claimed he wanted to target Trump administration officials “prioritized from highest-ranking to lowest.”
+The Claim
+Two images, one showing a passport purportedly belonging to a woman named Priyanka Rao and claiming she is Allen’s wife, and another showing the pair posing together are being shared on X with the claim that Cole's wife is Indian.
+Click here to view an archive.
+BOOM has previously fact-checked the handle Baba Thoka for sharing AI-generated misinformation targeting Indian military officials and amplifying pro-Pakistan narratives.
+What We Found:
+1) Fake Passport
+BOOM found inconsistencies in the viral passport image that indicate it is fabricated. Most glaringly, the “Nationality” field incorrectly reads Cole Thomas Allen instead of Indian. This indicates it has been digitally manipulated.
+Additionally, the passport contains other multiple errors, with fields such as “Nationality” listed as Rashtriyay, “Date of Birth” as Panasisi, “Place of Birth” as Jana Syan, and “Issue” as Pyari.
+2) AI-Generated Image of Allen With Woman
+We ran the photo of Allen with the woman through Hive, which returned a 100 percent likelihood that the image was AI-generated.
+3) Allen's reported background
+BOOM found no credible reports or official records identifying an Indian spouse named Priyanka Rao in connection with Allen. Current reporting on the suspect’s background does not mention any such person as being claimed.
+After Allen’s arrest, local and federal law enforcement swarmed the Torrance neighborhood where he apparently lived with his family, Los Angeles Times reported. He appears, based on social media profiles, to be a California Institute of Technology graduate working as a part-time teacher and game developer reported Reuters.
+BOOM has reached out to the U.S. Department of Justice (DoJ) for a response. This article will be updated upon receiving a response.

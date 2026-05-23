@@ -1,0 +1,8 @@
+SOURCE: https://www.altnews.in/sourcing-of-information/
+SCRAPED: 2026-05-23T17:56:57.505504
+============================================================
+
+Sourcing of information depends on the kind of stories Alt News tackles as part of its fact checking exercise.
+With regard to claims involving statistics and data, we provide links for various sources from Government publications to research conducted by think tanks and reputed organisations which are referred to in the article.
+For fact-checks which quote individuals, we always clearly specify the name and designation of an individual and we do not quote anonymous sources.
+For fact-checks which depend on verification using Internet tools such as Reverse Image Search, we always explain what internet tools have been used and how, to arrive at a conclusion so that the user can follow the same procedure to verify the result.

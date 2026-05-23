@@ -1,0 +1,25 @@
+SOURCE: https://www.altnews.in/fake-video-clip-showing-suvendu-adhikari-talking-about-finishing-muslims-is-ai-generated/
+SCRAPED: 2026-05-23T17:56:59.588108
+============================================================
+
+A video of West Bengal chief minister Suvendu Adhikari is viral on social media, purporting to show him make several controversial statements. In the video, Adhikari starts off by expresses his satisfaction at winning the seats of Bhabanipur and Nandigram. Then, he goes on to say: “We will work only for Hindus, and exterminate the 27% Muslim population in West Bengal. In this way, our work will ensure that the BJP (Bharatiya Janata Party) stays in power for more than 100 years.”
+X user (@Naira_Seth1) posted the viral clip, adding, in the caption, that this was a case of “majoritarian extremism” dressed as politics. (Archive)
+Suvendu Adhikari openly bragged about defeating Mamata Banerjee in Nandigram, then reportedly declared that BJP will “only work for Hindus” and “eliminate the 27% Muslims of West Bengal” to stay in power for 100 years.
+This is not governance. This is majoritarian extremism pic.twitter.com/MyIgERbyD2
+— Naira Seth (@Naira_Seth1) May 7, 2026
+X user (@Divyayadav98178) posted this video, which managed to rack up more than 8,000 views and over 50 shares. An archived version of the post, which has now been removed from the platform, can be accessed here.
+X user (@nilakshirabhaa) had also posted the clip with the viral claim. It was later taken down.
+Fact Check
+It is clear from the video that it is AI generated. The man seen in the later part of the clip is not Suvendu Adhikari. See below:
+Neither does the voice match Adhikari’s.
+The microphones placed in front of the speaker display garbled and distorted text, which is a common visual indicator of artificially generated videos. See below:
+On inspecting the video, we noticed several other inconsistencies with the accent, the lip sync, as well as the movements of the head, mouth, and hands.
+We also ran relevant keyword searches to check if any news outlet had published a report on the controversial statements, but could find none.
+We ran the video through Hive’s AI detection tool, which showed a strong possibility of it being artificially created, peaking at 98.8% around the 0:25 timestamp.
+Thereafter, we broke down the video into keyframes. A reverse image search on one such keyframe led us to an excerpt of a press byte given by Suvendu Adhikari. It was uploaded by PTI, on May 6.
+VIDEO | Kolkata, West Bengal: BJP’s Suvendu Adhikari says, “I urge everyone to remain calm, all TMC goons will be tackled through law.”
+(Full video available on PTI Videos – https://t.co/n147TvrpG7)#Kolkata pic.twitter.com/XK6SAhLG8q
+— Press Trust of India (@PTI_News) May 6, 2026
+In this excerpt, Suvendu Adhikari promises that lawful action will be meted out to criminals. He makes no mention of Hindus or Muslims.
+To sum up, the viral video, allegedly showing West Bengal CM Suvendu Adhikari promising to exterminate the Muslim population in West Bengal to ensure BJP’s stay in power, is AI-generated and not genuine.
+Independent journalism that speaks truth to power and is free of corporate and political control is possible only when people start contributing towards the same. Please consider donating towards this endeavour to fight fake news and misinformation.

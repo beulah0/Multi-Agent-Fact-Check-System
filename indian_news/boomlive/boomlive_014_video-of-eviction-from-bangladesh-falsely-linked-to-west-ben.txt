@@ -1,0 +1,14 @@
+SOURCE: https://www.boomlive.in/fact-check/video-of-eviction-from-bangladesh-falsely-linked-to-west-bengal-31602
+SCRAPED: 2026-05-23T17:55:59.921618
+============================================================
+
+A video of an eviction drive from Dhaka, Bangladesh is being falsely linked to anti-encroachment drives in and around Kolkata after the Bharatiya Janata Party came to power in Bengal.
+Chief Minister Suvendu Adhikari has launched eviction drives across Kolkata to remove encroachers, hawkers and illegal constructions using bulldozers in localities, and Sealdah and Howrah railway stations.
+BOOM found that the video is of an eviction drive that took place in Mirpur, Dhaka.
+The Claim:
+A user shared the video on his X handle claiming that bulldozer action was underway as a Bangladeshi settlement in West Bengal was being removed from a forest and government land.
+What we found:
+1) Signages from the video: When we analysed the keyframes of the video, we found a shop named Khan Vastra Bitan. The shop's location was mentioned as Mirpur in Dhaka. We were able to geolocate the store on Google Maps. The phone number listed also matches the screenshot from the video.
+The video also features a boom mic of Bangladesh's news outlet Kaler Kantho.
+2) Video of slum eviction drive: We ran a Google reverse image search on keyframes from this video and found the same video from May 20 published by Sobar Kantha, a Bangladeshi news outlet.
+According to reports by Bangladeshi outlet Kaler Kantho and Daily Sun, a slum eviction incident resulted in policemen being injured in Mirpur after clashes between the slum residents and police.

@@ -1,0 +1,18 @@
+SOURCE: https://www.boomlive.in/fact-check/fake-news-viral-videos-ai-deepfakes-indian-army-officers-criticize-trump-indian-government-factcheck-31059
+SCRAPED: 2026-05-23T17:55:47.193937
+============================================================
+
+Deepfakes purporting to show Indian Army officials mocking Donald Trump and criticising India over the Pahalgam attack have surfaced online. BOOM found both videos have been digitally altered using AI-generated voiceovers.
+The Claim:
+The two videos are being shared on social media with captions claiming one shows Commander of the 75 (Independent) Infantry Brigade Neeraj Khajuria questioning “celebrations” around the Pahalgam attack, while another purportedly showing Chief of Defence Staff (CDS) Anil Chauhan mocking Donald Trump and claiming Benjamin Netanyahu is the “de facto ruler” of the US.
+Click here to view an archive.
+BOOM has previously fact-checked misinformation and AI-generated deepfake videos targeting Indian Army officials shared by the “The Whistle Blower” (@InsiderWB) handle on X.
+Click here to view an archive.
+What We Found:
+1) Brigadier Neeraj Khajuria byte on army foiling drone threats
+We found the original video from April 22, 2026, in which Brigadier Neeraj Khajuria spoke about Operation Sindoor and how the army foiled enemy drone threats in the Rann sector. He made no remarks against the government or the Pahalgam attack.
+2) CDS Chauhan statement on preparedness beyond Operation Sindoor
+The original video was posted by India Today on April 18, 2026, in which Chief of Defence Staff Anil Chauhan was discussing preparedness beyond Operation Sindoor and future security challenges. He made no comments about Donald Trump, JD Vance, or Benjamin Netanyahu.
+3) AI-Detection tool results
+BOOM analysed the audio from both viral videos using the Hiya Deepfake Voice Detector and Deepfake-o-meter.
+Hiya indicated the sampled voice in the Khajuria video is highly likely to be a deepfake. Results from Deepfake-o-meter also indicated that the voiceover in the CDS Chauhan video is artificially generated.

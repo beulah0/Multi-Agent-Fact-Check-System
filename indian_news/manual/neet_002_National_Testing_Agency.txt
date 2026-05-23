@@ -1,0 +1,99 @@
+SOURCE: https://en.wikipedia.org/wiki/National_Testing_Agency
+SCRAPED: 2026-05-23T17:55:31.190390
+============================================================
+
+National Testing Agency
+| Displacement overview | |
+|---|---|
+| Formed | November 2017 |
+| Type | For conducting entrance examinations.[1] |
+| Jurisdiction | India |
+| Status | Active |
+| Headquarters | First Floor, NSIC-MDBP Building, Okhla Industrial Estate, New Delhi, India |
+Displacement executives |
+|
+| Website | nta |
+The National Testing Agency (NTA) is an autonomous body under Department of Higher Education of the Ministry of Education of India. It was established in November 2017 to conduct entrance examinations, admissions and recruitment. As of 2025, it no longer conducts recruitment examinations. The agency is responsible for conducting numerous national-level exams for admission and fellowship in higher educational institutions related to engineering, medicine, management, research and pharmacy.[2][3]
+The agency has often been in controversy. Multiple news reports[4] have said that the agency has faced issues such as paper leaks, unfair grace marks and technical or administrative problems at exam centres. Critics have also questioned how the NTA is managed, saying it lacks transparency and public accountability. Because of these problems, many court cases have been filed against it, and the government has announced reviews and possible reforms to improve its functioning.[5][AI-retrieved source][6]
+History
+[edit]The roots of the agency can be traced to the Programme of Action 1992, related to the National Policy of Education 1986, which mentioned conducting national-level common entrance tests to professional and non-professional programmes of study.[7] Its actual start was in 2010 with a report submitted to the Ministry of Human Resources Development (MHRD) (now the Ministry of Education) by a committee consisting of some of the directors of the Indian Institutes of Technology (IITs), which recommended that the national testing agency be "created by an Act of Parliament". The report mentioned that a statutory agency can ensure independence and transparency in the testing of the magnitude that was being envisaged.[8]
+In 2013, the MHRD constituted a seven-member task force to "prepare a blueprint for creating a special purpose vehicle to take the concept of the National Testing Agency (NTA) forward".[9] This follows a decision made in April 2013 to set up the agency.[9]
+In 2017, an announcement about the NTA was made by the Finance Minister in the budget speech of 2017, and this was followed by Cabinet approval. The government appointed Vineet Joshi as the first Director-General of the agency.[10]
+On 7 July 2018, the former Union HRD Minister Prakash Javadekar stated, during a press conference, that the NTA will be holding the Joint Entrance Examination–Main (JEE Main) and the National Eligibility cum Entrance Test-Undergraduate (NEET-UG) twice a year, and will also be holding the National Eligibility Test (NET), the Common Management Admission Test (CMAT) and the Graduate Pharmacy Aptitude Test (GPAT).[11]
+In December 2024, Dharmendra Pradhan (Union Education Minister) announced that from 2025 onward it will only conduct entrance exams for higher-education institutions and will stop organising recruitment tests. The decision follows a high-level committee’s recommendation and aims to restore trust in the exam system after recurring issues such as alleged paper leaks and administrative glitches.[12]
+Administration
+[edit]The agency is administered by a governing body which includes a chairperson, a secretary and eight or more officials representing different national level institutes.[13]
+As of 2026, Abhishek Singh is appointed as Director General whereas Pawan Kumar Sharma and Vijaykumar Vinayakrao Patil are appointed as Directors. Ashish Gupta takes charge as Joint Director (Deputy Secretary level) in the National Testing Agency under the Department of Higher Education, Delhi.[14]
+Budget
+[edit]The Union Cabinet has granted an initial amount of ₹25 crore (equivalent to ₹35 crore or US$3.7 million in 2023) to the NTA[15] to start its operations in the first year.[16] The agency is financed by the Department of Higher Education of the Ministry of Education.[17]
+Exams
+[edit]Following are the exams conducted by the NTA every year.[18]
+For universities and colleges
+[edit]- Joint Entrance Examination (Main) (JEE-Main)
+- National Eligibility cum Entrance Test (Undergraduate) (NEET-UG)
+- Common Management Admission Test (CMAT)
+- Common University Entrance Test (CUET)
+- Graduate Pharmacy Aptitude Test (GPAT)
+- Indian Institute of Foreign Trade Entrance Test
+- Jawaharlal Nehru University Entrance Examination
+- Indian Council of Agricultural Research Entrance Examination
+- National Council for Hotel Management Joint Entrance Examination (NCHMJEE)
+- Delhi University Entrance Test (DUET)
+- National Institute of Fashion Technology Entrance Examination
+- All India Ayush Post Graduate Entrance Test (AIAPGET)
+- Joint Integrated Programme in Management Admission Test (JIPMAT)
+- Graduate Aptitude Test – Biotechnology (GAT-B)
+- Biotechnology Eligibility Test (BET)
+- National Common Entrance Test (NCET)
+- National Forensic Admission Test (NFAT)
+- National Institute of Technology Master of Computer Applications Common Entrance Test(NIMCET)
+For Schools
+[edit]- Scheme for Residential Education for Students in High Classes in Targeted Areas (SRESHTA)
+- Navyug School Sarojini Nagar Entrance Test (NSSNET)
+- All India Sainik Schools Entrance Exam (AISSEE)
+Controversies
+[edit]The National Testing Agency (NTA) has faced repeated controversies over exam integrity, technical errors, and transparency. Major national exams like NEET-UG, JEE Main, and CUET-UG have seen allegations of paper leaks, technical glitches, and irregularities in question papers and results. The agency has also been criticized for awarding grace marks, sudden changes in scorecards, and frequent legal disputes from aggrieved candidates.[19]
+See also
+[edit]- National Testing Agency controversies
+- National Council of Educational Research and Training
+- NCERT textbook controversies
+- List of Public service commissions in India
+References
+[edit]- ^ "NTA to focus only on entrance exams from 2025, says Dharmendra Pradhan". 18 December 2024.
+- ^ "How one of world's biggest 'exam agencies' is making tests smarter, less stressful". The Times of India. Archived from the original on 2019-08-13. Retrieved 2019-08-13.
+- ^ "Centre approves creation of National Testing Agency". The Hindu. 10 November 2017. Archived from the original on 9 November 2020. Retrieved 24 September 2018.
+- ^ Deeksha, Johanna (2025-06-10). "Why the National Testing Agency continues to fail students in India". Scroll.in. Retrieved 2025-11-03.
+- ^ "5 times NTA found itself in troubled waters". The Times of India. 2024-11-28. ISSN 0971-8257. Retrieved 2025-11-03.
+- ^ Sharma, Yashraj. "Millions of students at risk: India's elite exams hit by corruption 'scam'". Al Jazeera. Retrieved 2025-11-03.
+- ^ "Programme on Action 1992" (PDF). Mhrd.gov.in. Archived (PDF) from the original on 12 July 2018. Retrieved 25 November 2018.
+- ^ "Archived copy". Archived from the original on 2016-12-15. Retrieved 2018-11-22.
+{{cite web}}
+: CS1 maint: archived copy as title (link) - ^ a b Nanda, Prashant K. (2013-06-01). "Government sets up agency to streamline entrance exams". mint. Archived from the original on 2023-11-14. Retrieved 2023-10-03.
+- ^ "Cabinet approves creation of National Testing Agency". Currentaffairs.gktoday.in. 11 November 2017. Archived from the original on 22 November 2018. Retrieved 25 November 2018.
+- ^ "JEE Main 2019 To Be Held Online, Twice By National Testing Agency (NTA): Check Complete Schedule Here". Ndtv.com. New Delhi Television. 8 July 2018. Archived from the original on 24 September 2018. Retrieved 24 September 2018.
+- ^ "NTA to only conduct entrance tests as part of exam reforms: Dharmendra Pradhan". Hindustan Times. December 18, 2024. Retrieved 2025-11-03.
+- ^ "Governing Body". Nta.ac.in. Archived from the original on 24 September 2018. Retrieved 24 September 2018.
+- ^ "New Director & Joint Director Appointments in National Testing Agency (NTA)". The secretariat. Retrieved 2026-02-16.
+- ^ "Centre approves creation of National Testing Agency". The Hindu. 10 November 2017. Archived from the original on 9 November 2020. Retrieved 20 November 2017.
+- ^ "Union Cabinet approves creation of National Testing Agency". The Times of India. 2017-11-10. ISSN 0971-8257. Archived from the original on 2023-08-18.
+- ^ "Creation of National Testing Agency (NTA) for conducting of entrance examinations for higher education institutions- reg" (PDF). Ministry of Education (India). 2018-09-05. Archived (PDF) from the original on 2022-01-28. Retrieved 2024-04-16.
+- ^ "NTA Exam | India". exams.nta.ac.in. Archived from the original on 2024-04-02. Retrieved 2024-04-18.
+- ^ "NEET: Why an exam has sparked national outrage in India". www.bbc.com. 2024-06-18. Retrieved 2025-11-03.
+External links
+[edit]- Government agencies established in 2017
+- 2017 establishments in India
+- School examinations in India
+- Government agencies of India
+- Controversies in India
+- Scandals in India
+- Academic scandals
+- Education scandals
+- Education fraud
+- Fraud in India
+- Political controversies in India
+- Political scandals in India
+- Education controversies in India
+- Political corruption in India
+- Corruption in India
+- Examinations in India
+- Standardised tests in India

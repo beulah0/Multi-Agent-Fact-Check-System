@@ -1,0 +1,30 @@
+SOURCE: https://www.altnews.in/methodology-for-fact-checking/
+SCRAPED: 2026-05-23T17:56:53.017913
+============================================================
+
+1. Selecting a claim to debunk
+Alt News continuously monitors social media and mainstream media for incorrect and/or dubious information. Our sources for topics include:
+- Speeches and tweets of politicians and officials in positions of authority
+- Claims made by political parties and their leaders via their social media pages.
+- Provocative hashtags promoted by media to influence public opinion in favour of a political party or leader.
+- Social media suspect list. For social media, we have compiled a comprehensive list of pages, groups, accounts and websites which we routinely check for false information. We monitor them closely on a real-time basis.
+- Messages from social media users on Facebook and Twitter bringing claims to our attention for fact-checking.
+Given the volume of fake claims that are circulating on any given day, Alt News makes a selection of which ones to debunk. The following parameters are considered for selection of topics we write on:
+- How viral is the claim (extent, reach and spread)
+- Source of the claim (who shared it? A prominent politician? A verified account?)
+- Nature of the claim (Is it provocative? Can it lead to violence or physical harm to individuals?)
+2. Researching the claim
+Once a suspicious claim has been selected for a fact check, Alt News engages in systematic research to verify it. To debunk any fake claim, Alt News may use one or more of the below methodologies:
+- Using internet tools like Google Reverse Image search to determine the origin of viral photographs or videos and also to verify if the same image or video has been used earlier in similar or different contexts. In order to use Google Reverse Image search for videos, we break the video into individual frames and also use publicly available tools such as InVid for the same.
+- Internet search using various Search filters (date, time etc.) to arrive at the origin of posts and messages circulating on the internet.
+- Establishing contact with the local authorities or police in case of viral rumours, particularly the communally sensitive ones to verify the truth behind them.
+- Reviewing original video or transcript to verify if the statements attributed to public figures have been clipped to distort the message.
+- Referring to primary data or official data source/s to verify exaggerated claims about achievements.
+- Contacting the person to whom a seemingly fake claim is attributed.
+- Consulting reputed subject matter experts where necessary.
+3. Evaluating the claim
+Using a variety of tools and methods described above, Alt News evaluates the veracity of a claim and arrives at a conclusion. Where relevant, more than one tool is used to conclusively debunk the fake claim.
+4. Writing the fact-check
+Once the claim has been selected, researched and evaluated, Alt News puts out the information in public domain through articles that are detailed yet reader friendly. We strive to establish the context in which the particular claim was made, focus on simplicity of language, and provide links that debunk the claim so that readers can verify the information for themselves. If the information is inadequate or out of bounds, we refrain from passing conclusive judgement.
+5. Updating the articles
+Information is often dynamic, as a result of which stories have to be constantly updated. Alt News keeps an eye out for relevant news and updates its articles so as to provide readers with the latest and the most accurate information. In the event of an error on our part, we are prompt in acknowledging and correcting it.

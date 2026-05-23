@@ -1,0 +1,14 @@
+SOURCE: https://www.boomlive.in/fact-check/video-of-drdo-chairman-on-washing-missiles-with-cow-urine-is-a-deepfake-31143
+SCRAPED: 2026-05-23T17:55:58.332237
+============================================================
+
+A video purportedly showing Samir V. Kamat, head of India’s missile programme and chairman of the Defence Research and Development Organisation (DRDO), claiming that missiles are washed with cow urine on the direction of Prime Minister Narendra Modi is a Deepfake. BOOM found the video has been digitally altered using an AI-generated voice-over.
+The Claim:
+The video is being shared on X with the caption claiming that Kamat said India’s Agni-VI missiles are treated with cow urine and dung on the direction of Prime Minister Narendra Modi.
+Click here to view an archive
+What We Found:
+1) Original Video
+We found that the original video from April 30, 2026, in which DRDO Chairman Dr Samir V Kamat is seen responding to a question about the Agni-VI missile.
+Kamat states that the development of Agni-VI is a government decision and that DRDO is ready whenever it receives approval. He does not make any remarks about cow urine or dung as claimed in the viral video.
+2) AI-Detection tool result
+BOOM analysed the audio from both viral video using the Hiya Deepfake Voice Detector. Hiya indicated the sampled voice in the video is highly likely to be a deepfake.

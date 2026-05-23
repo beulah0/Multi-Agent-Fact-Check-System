@@ -1,0 +1,17 @@
+SOURCE: https://www.boomlive.in/fact-check/fake-news-viral-videos-s-jaishankar-pakistan-retaliation-caught-india-off-guard-army-general-saying-india-paid-taliban-31593
+SCRAPED: 2026-05-23T17:55:55.156755
+============================================================
+
+Two deepfake videos appear to show External Affairs Minister S. Jaishankar saying India was caught off guard by Pakistan’s retaliation during Operation Sindoor, and an Indian Army general admitting India paid the Taliban to attack Pakistan.
+BOOM found that the audios used in both are AI-generated to falsely attribute these statements to Jaishankar and Lt. Gen Manoj Kumar Katiyar.
+The Claim:
+The videos are being shared on X with captions claiming that S. Jaishankar admitted India was caught off guard by Pakistan’s retaliation during Operation Sindoor, and that a Lt Gen admitted that India 'paid' Taliban mercenaries to attack Pakistan.
+Click here to view an archive.
+Click here to view an archive.
+What We Found:
+1) Original videos
+The first video featuring ANI’s Smita Prakash interviewing S. Jaishankar is from May 2024, predating Operation Sindoor, which took place in May 2025, making the viral claim chronologically false.
+The second video is from October 2025 and originally featured Lt. Gen Manoj Kumar Katiyar, GOC-in-C, Western Command, speaking about Pakistan and the aftermath of Operation Sindoor.
+In his original remarks, Katiyar said Pakistan could continue its actions unless its approach changes and warned that any future Indian response would be stronger. The viral video not only uses AI-generated audio but also misidentifies him as Lt Gen Vinod Sharma.
+2) AI Detection Tool Results
+We analysed the audio from both videos using AI detection tool Hiya, which showed that it is AI-generated.

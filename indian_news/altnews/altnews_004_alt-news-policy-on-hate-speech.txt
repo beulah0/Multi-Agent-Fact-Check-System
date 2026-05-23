@@ -1,0 +1,84 @@
+SOURCE: https://www.altnews.in/alt-news-policy-on-hate-speech/
+SCRAPED: 2026-05-23T17:56:19.419825
+============================================================
+
+The rationale behind our policy
+After five years of extensive reportage of misinformation, Alt News launched UnHate in 2022. We believe that there is a pressing need for fixing accountability among all stakeholders (individuals, media outlets, advertisers, social media platforms, and others) who are directly or indirectly responsible for either publishing or amplifying hate speech.
+On November 3, Alt News officially published a preliminary policy document on hate speech. For the time being, the policy is based on the Facebook Community Standards on hate speech. In its reportage on hate speech, Alt News will refer to this document.
+This policy will be updated as we continue to report on hate speech.
+What is hate speech?
+As per the United Nations, ‘In common language, “hate speech” refers to offensive discourse targeting a group or an individual based on inherent characteristics (such as race, religion or gender) and that may threaten social peace.’
+However, the UN adds that ‘there is no universal definition of hate speech under international human rights law. The concept is still widely disputed, especially in relation to freedom of opinion and expression, non-discrimination and equality.’
+To provide a unified framework for the United Nations to address the issue globally, the UN Strategy and Plan of Action on Hate Speech defines hate speech as…’any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.’
+While the above is not a legal definition and is broader than ‘incitement to discrimination, hostility or violence’ – which is prohibited under international human rights law — it has three important attributes:
+- Hate speech can be conveyed through any form of expression, including images, cartoons, memes, objects, gestures and symbols and it can be disseminated offline or online.
+- Hate speech is “discriminatory” (biased, bigoted or intolerant) or “pejorative” (prejudiced, contemptuous or demeaning) of an individual or group.
+- Hate speech calls out real or perceived “identity factors” of an individual or a group, including: “religion, ethnicity, nationality, race, colour, descent, gender,” but also characteristics such as language, economic or social origin, disability, health status, or sexual orientation, among many others.
+The Facebook Hate Speech Policy
+Hate Speech can be defined as a direct attack against people – rather than concepts or institutions – on the basis of what we call protected characteristics: race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity and serious disease. We define attacks as violent or dehumanising speech, harmful stereotypes, statements of inferiority, expressions of contempt, disgust or dismissal, cursing and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanising comparisons that have historically been used to attack, intimidate or exclude specific groups, and that are often linked with offline violence. We consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants and asylum seekers from the most severe attacks, though we do allow commentary and criticism of immigration policies. Similarly, we provide some protections for characteristics such as occupation, when they’re referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.”
+Categorisation of Hate Speech
+Tier 1
+Content targeting a person or group of people (including all groups except those who are considered non-protected groups described as having carried out violent crimes or sexual offences or representing less than half of a group) on the basis of their aforementioned protected characteristic(s) or immigration status with:
+- Violent speech or support in written or visual form
+- Dehumanising speech or imagery in the form of comparisons, generalisations or unqualified behavioural statements (in written or visual form) to or about:
+- Insects.
+- Animals that are culturally perceived as intellectually or physically inferior.
+- Filth, bacteria, disease and faeces.
+- Sexual predator.
+- Subhumanity.
+- Violent and sexual criminals
+- Other criminals (including, but not limited to, “thieves”, “bank robbers” or saying “All [protected characteristic or quasi-protected characteristic] are ‘criminals'”).
+- Statements denying existence.
+- Mocking the concept, events or victims of hate crimes, even if no real person is depicted in an image.
+- Designated dehumanising comparisons, generalisations or behavioural statements (in written or visual form) that include:
+- Black people and apes or ape-like creatures.
+- Black people and farm equipment.
+- Caricatures of Black people in the form of blackface.
+- Jewish people and rats.
+- Jewish people running the world or controlling major institutions such as media networks, the economy or the government.
+- Denying or distorting information about the Holocaust.
+- Muslim people and pigs.
+- Muslim person and sexual relations with goats or pigs.
+- Mexican people and worm-like creatures.
+- Women as household objects or referring to women as property or “objects”.
+- Transgender or non-binary people referred to as “it”.
+- Dalits, scheduled caste or “lower caste” people as menial labourer
+Tier 2
+Content targeting a person or group of people on the basis of their protected characteristic(s) with:
+- Generalisations that state inferiority (in written or visual form) in the following ways:
+- Physical deficiencies are defined as those about:
+- Hygiene, including, but not limited to: filthy, dirty, smelly.
+- Physical appearance, including, but not limited to: ugly, hideous.
+- Mental deficiencies are defined as those about:
+- Intellectual capacity, including, but not limited to: dumb, stupid, idiots.
+- Education, including, but not limited to: illiterate, uneducated.
+- Mental health, including, but not limited to: mentally ill, retarded, crazy, insane.
+- Moral deficiencies are defined as those about:
+- Character traits culturally perceived as negative, including, but not limited to: coward, liar, arrogant, ignorant.
+- Derogatory terms related to sexual activity, including, but not limited to: whore, slut, perverts.
+- Physical deficiencies are defined as those about:
+- Other statements of inferiority, which we define as:
+- Expressions about being less than adequate, including, but not limited to: worthless, useless.
+- Expressions about being better/worse than another protected characteristic, including, but not limited to: “I believe that males are superior to females.”
+- Expressions about deviating from the norm, including, but not limited to: freaks, abnormal.
+- Expressions of contempt (in written or visual form), which we define as:
+- Self-admission to intolerance on the basis of protected characteristics, including, but not limited to: homophobic, islamophobic, racist.
+- Expressions that a protected characteristic shouldn’t exist.
+- Expressions of hate, including, but not limited to: despise, hate.
+- Expressions of dismissal, including, but not limited to: don’t respect, don’t like, don’t care for
+- Expressions of disgust (in written or visual form), which we define as:
+- Expressions suggesting that the target causes sickness, including, but not limited to: vomit, throw up.
+- Expressions of repulsion or distaste, including, but not limited to: vile, disgusting, yuck.
+- Cursing, except certain gender-based cursing in a romantic break-up context, defined as:
+- Referring to the target as genitalia or anus, including, but not limited to: cunt, dick, asshole.
+- Profane terms or phrases with the intent to insult, including, but not limited to: fuck, bitch, motherfucker.
+- Terms or phrases calling for engagement in sexual activity, or contact with genitalia, anus, faeces or urine, including, but not limited to: suck my dick, kiss my ass, eat shit.
+Tier 3
+Content targeting a person or group of people on the basis of their protected characteristic(s) with any of the following:
+- Segregation in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting segregation.
+- Exclusion in the form of calls for action, statements of intent, aspirational or conditional statements, or statements advocating or supporting, defined as
+- Explicit exclusion, which means things such as expelling certain groups or saying they are not allowed.
+- Political exclusion, which means denying the right to political participation.
+- Economic exclusion, which means denying access to economic entitlements and limiting participation in the labour market.
+- Social exclusion, which means things such as denying access to spaces (physical and online) and social services, except for gender-based exclusion in health and positive support groups.
+Content that describes or negatively targets people with slurs, where slurs are defined as words that are inherently offensive and used as insulting labels for the above characteristics.

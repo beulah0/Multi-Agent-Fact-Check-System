@@ -1,0 +1,17 @@
+SOURCE: https://www.boomlive.in/fact-check/nashik-assault-video-shared-with-false-communal-claim-as-bengal-muslim-woman-31556
+SCRAPED: 2026-05-23T17:55:51.958248
+============================================================
+
+A video from Nashik, Maharashtra, is being shared with a false communal claim that it shows a Muslim woman being dragged out of her house and assaulted in Kolkata after the Bharatiya Janata Party’s victory in West Bengal.
+The Association for Protection of Civil Rights (APCR) released a report documenting 34 incidents of violence, including communal violence, across at least eight districts in West Bengal between May 4 and May 7 following the BJP’s assembly election victory.
+The Claim:
+The video is being shared on X with a caption claiming that BJP supporters in Kolkata are targeting Muslims after the party’s victory in West Bengal.
+Click here to view an archive.
+What We Found:
+1) Video from Nashik
+We broke the video into key-frames and ran a reverse image search using Google Lens. The search results showed that the same video was being shared in March, stating that it is an incident from Nashik when a woman and her daughter were assaulted over a financial dispute. Additionally, we can hear a woman speak in Marathi in the video.
+2) Local reports on the incident
+We also found several local YouTube video reports on the incident with a byte from the victim Sameena Shaikh, who stated that she and her daughter were allegedly attacked by a man named Manohar Rathore and his wife over a financial dispute.
+The report title when translated reads, "Woman Assaulted in Jail Road Area; Incident Stems from Financial Dispute"
+3) Geo-location
+On checking replies to tweets with the video from March and using cues like the area mentioned in local reports, we were able to geo-locate the area where the incident occurred.

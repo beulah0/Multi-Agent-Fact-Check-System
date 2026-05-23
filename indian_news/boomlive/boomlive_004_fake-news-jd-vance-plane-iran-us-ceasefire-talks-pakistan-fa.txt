@@ -1,0 +1,18 @@
+SOURCE: https://www.boomlive.in/fact-check/fake-news-jd-vance-plane-iran-us-ceasefire-talks-pakistan-factcheck-31000
+SCRAPED: 2026-05-23T17:55:43.894822
+============================================================
+
+A video appearing to show India Today anchor Gaurav Sawant reporting that United States Vice President JD Vance’s plane did not land in Pakistan ahead of the talks between Iran and US is fake.
+BOOM found that the video has been digitally altered using AI-generated voiceover.
+Talks between the US and Iran were held in Pakistan on April 12, 2026, with JD Vance leading the US delegation, but ended without an agreement after marathon negotiations.
+The Claim:
+The video is being shared on Facebook claiming that Vance would not be going to Pakistan and will return to the US.
+Click here to view an archive.
+What We Found:
+1) Al Detection Tool Results:
+BOOM analysed the audio from the viral video using the Hiya Deepfake Voice Detector, which returned authenticity scores of 1/100, indicating that the voice is highly likely to be AI-generated deepfake.
+2) Original Video Report
+We checked Sawant's show on India Today and found no instance where he made the statements heard in the viral video. We also identified the original video from which the footage was taken and digitally altered.
+The original monologue is from April 9, 2026, titled: “India First: Did Pakistan Play A Double Game By Inserting Lebanon Into The Iran-US Ceasefire Draft.”
+3) India Today's rebuttal
+Additionally, India Today also posted on X stating that the viral video is digitally manipulated from India Today's broadcast of India First show, aired on April 9, 2026.

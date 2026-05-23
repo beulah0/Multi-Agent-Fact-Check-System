@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+tavily-python
+sentence-transformers
+faiss-cpu
+gradio
+python-dotenv
+pypdf
