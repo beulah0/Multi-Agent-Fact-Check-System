@@ -5,11 +5,17 @@ An AI-powered multi-agent fact verification system that evaluates the truthfulne
 It combines:
 
 🔍 Retrieval-Augmented Generation (RAG)
+
 🌐 Live web search (Tavily API)
+
 📚 Local FAISS knowledge base (Indian news corpus)
+
 🤖 Multi-agent debate system (Advocate vs Refuter vs Judge)
+
 🎯 Final structured verdict with confidence scoring
+
 🖥️ Gradio UI for interactive use
+
 
 
 🚀 Features
@@ -67,26 +73,47 @@ Gradio UI Output
 
 📂 Project Structure
 fact-check/
+
 │
+
 ├── app.py                  # Gradio UI entry point
+
 ├── graph.py               # LangGraph pipeline orchestration
+
 ├── utils.py              # LLM (Groq) setup
+
 │
+
 ├── agents/
+
 │   ├── retriever.py
+
 │   ├── advocate.py
+
 │   ├── refuter.py
+
 │   └── judge.py
+
 │
+
 ├── retrieval/
+
 │   ├── ingest.py         # Build FAISS index
+
 │   ├── vector_store.py   # Local semantic search
+
 │   └── web_search.py    # Tavily API search
+
 │
+
 ├── indian_news/         # Raw dataset (PDF/TXT sources)
+
 ├── indian_news_index/   # FAISS vector database
+
 │
+
 ├── requirements.txt
+
 └── README.md
 
 
